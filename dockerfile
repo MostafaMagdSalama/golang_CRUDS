@@ -10,4 +10,4 @@ RUN go build -o api .
 
 EXPOSE 8000
 
-CMD ["./app"]
+CMD ["./api"]
